@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Anagh N</h1>
 <h3 align="center">An enthusiastic software engineer hailing from India.</h3>
-<img align=“right” alt=“multitasking” width=“400” src=“https://i.pinimg.com/originals/d2/6c/86/d26c86854a03d2f645437d05b4d6acd6.gif”>
+<img align="right" alt="multitasking" width="400" src="https://i.pinimg.com/originals/d2/6c/86/d26c86854a03d2f645437d05b4d6acd6.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anxgh-n" alt="anxgh-n" /></a> </p>
