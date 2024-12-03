@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Anagh N</h1>
+<h1 align="center">Hello 👋, I'm Anagh N</h1>
 <h3 align="center">An enthusiastic software engineer hailing from India.</h3>
 <img align="right" alt="multitasking" width="400" src="https://i.pinimg.com/originals/d2/6c/86/d26c86854a03d2f645437d05b4d6acd6.gif">
 
